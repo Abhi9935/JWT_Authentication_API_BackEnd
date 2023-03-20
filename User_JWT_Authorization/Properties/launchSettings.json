@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "LibraryManagementSystem": {
+    "User_JWT_Authorization": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

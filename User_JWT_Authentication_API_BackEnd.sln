@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_JWT_Authorization", "LibraryManagementSystem\User_JWT_Authorization.csproj", "{6C280EA0-B7B7-481C-892F-E95C346FFC0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_JWT_Authorization", "User_JWT_Authorization\User_JWT_Authorization.csproj", "{6C280EA0-B7B7-481C-892F-E95C346FFC0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
